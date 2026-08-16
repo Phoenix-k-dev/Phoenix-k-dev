@@ -101,6 +101,6 @@ Outils desktop/mobile, prototypes et projets spécifiques adaptés à un besoin 
 
 ### Phoenix Inc | Development
 
-**Construire moins de bruit. Créer des outils qui servent vraiment.**
+**Imaginer mieux. Construire proprement. Faire évoluer sans limites.**
 
 </div>
