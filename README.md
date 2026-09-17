@@ -89,7 +89,7 @@ Outils desktop/mobile, prototypes et projets spécifiques adaptés à un besoin 
 
 ## 🔗 Liens
 
-- **Site** — https://phoenix-k-dev.github.io/Phoenix-inc-development/
+- **Site** — https://www.phxinc.dev
 - **Synapse** — https://github.com/Phoenix-k-dev/Synapse
 - **Discord** — https://discord.gg/xfWVss2KCv
 - **GitHub** — https://github.com/Phoenix-k-dev
