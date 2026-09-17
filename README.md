@@ -93,7 +93,7 @@ Outils desktop/mobile, prototypes et projets spécifiques adaptés à un besoin 
 - **Synapse** — https://github.com/Phoenix-k-dev/Synapse
 - **Discord** — https://discord.gg/xfWVss2KCv
 - **GitHub** — https://github.com/Phoenix-k-dev
-- **Contact** — phoenixinc.dev@gmail.com
+- **Contact** — contact@phxinc.dev
 
 ---
 
